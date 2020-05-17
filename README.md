@@ -1,14 +1,19 @@
 # flashserver2
-极速分布式服务器（运营版）
+Extremely fast distributed server 2
 
-该版本是基于flashserver框架基础上增加了以下特性：
+This version adds the following features based on the flashserver framework:
 
-gate（网关层）
-1.zero copy 特性。
-2.流量限流。
-3.防ddos方案。
+gate (gateway layer)
+1. Zero copy feature.
 
-dbapi（db层）
-1.永久存储方案（kafka + mysql）。
-2.微服务api。
-3.负载均衡。
+2. Flow limitation.
+
+3. Anti-ddos program.
+
+dbapi (db layer)
+
+1. Permanent storage solution (kafka + mysql).
+
+2. Microservice API.
+
+3. Load balancing.
