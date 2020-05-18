@@ -6,7 +6,7 @@ This version adds the following features based on the flashserver framework:
 gate (gateway layer)
 1. Zero copy feature.
 
-2. Flow limitation.
+2. Data flow limitation.
 
 3. Anti-ddos program.
 
